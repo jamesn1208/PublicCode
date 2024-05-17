@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="toml">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/libs/toml4j-toml4j-0.7.1/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
